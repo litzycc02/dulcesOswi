@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "dulces":[
+        {
+            "source": {
+                "id": null,
+                "name": "Dulces"
+            },
+            "author": "Promanuez",
+            "title": "Gomas Lombrices ",
+            "description": "Glucosa, grenetina, sorbitol (1g en 100g de producto), ácido cítrico, ácido láctico, agente abrillantador (aceite vegetal hidrogenado, cera de abeja y cera de camauba), saborizantes y colorantes artificiales, tartrazina.",
+            "url": "https://promanuez.com/producto/snacks_promanuez/Gomas_Lombrices_200g",
+            "urlToImage": "https://img.xentra.com.mx/xentra_promanuez/img/productos/aeb1d02c5dae22dda7557347385ff1bbGomasLombricesjpg842x842.webp",
+            "publishedAt": "",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dulces"
+            },
+            "author": "Promanuez",
+            "title": "Gomas Frutas",
+            "description": "Azúcar, glucosa, grenetina, sorbitol, ácido cítrico, pectina, ácido láctico, citrato de sodio, saborizantes artificiales y colorantes artificiales.",
+            "url": "https://promanuez.com/producto/snacks_promanuez/Gomas_Frutas_80g",
+            "urlToImage": "https://img.xentra.com.mx/xentra_promanuez/img/productos/dbd1eeb0993d06260cb93bd95bddf395GomasFrutasjpg842x842.webp",
+            "publishedAt": "",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dulces"
+            },
+            "author": "Promanuez",
+            "title": "Gomas Ositos",
+            "description": "Azúcares añadidos, jarabe de maíz, grenetina, glicerina, ácido cítrico, ácido láctico, agente abrillantador, saborizantes y colorantes artificiales.",
+            "url": "https://promanuez.com/producto/snacks_promanuez/Gomas_Ositos_80g",
+            "urlToImage": "https://img.xentra.com.mx/xentra_promanuez/img/productos/ca14c7edf3e84bfce3a24c0ef78f5ca3GomasOsitosjpg842x842.webp",
+            "publishedAt": "",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dulces"
+            },
+            "author": "Promanuez",
+            "title": "Gomas Corazón",
+            "description": "Glucosa, azúcar, grenetina, sorbitol, almidón de maíz modificado, ácido cítrico, ácido láctico, saborizantes artificiales y colorante artificial.",
+            "url": "https://promanuez.com/producto/snacks_promanuez/Gomas_Corazon_200g",
+            "urlToImage": "https://img.xentra.com.mx/xentra_promanuez/img/productos/6074f9c64f70e45ab72ade1b490e96c1GomasCorazonjpg842x842.webp",
+            "publishedAt": "",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dulces"
+            },
+            "author": "Promanuez",
+            "title": "Gomas Aros Durazno ",
+            "description": "Azúcares añadidas (jarabe de maíz), azúcar, grenetina, glicerina, ácido cítrico, ácido láctico, saborizantes y colorantes artificiales.",
+            "url": "https://promanuez.com/producto/snacks_promanuez/Gomas_Aros_Durazno_80g",
+            "urlToImage": "https://img.xentra.com.mx/xentra_promanuez/img/productos/eeaf8fc521d4d2c45b0dd7fe24627020GomasArosDuraznojpg842x842.webp",
+            "publishedAt": "",
+            "content": ""
+        }
+    ]
+}
